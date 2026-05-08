@@ -95,7 +95,7 @@ gsap.from(".contact-card", {
 });
 
 // ===== 5. COUNTDOWN =====
-const weddingDate = new Date("May 16, 2026 18:52:00").getTime();
+const weddingDate = new Date("May 14, 2026 13:30:00").getTime();
 
 function formatTime(v) { return v < 10 ? "0" + v : v; }
 
