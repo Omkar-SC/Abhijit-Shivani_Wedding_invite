@@ -441,7 +441,7 @@ section { padding: 10px 20px; }
 
 /* ===== COUPLE SECTION ===== */
 #couple-intro {
-    padding: 80px 20px;
+    padding: 20px 20px;
     text-align: center;
 }
 
@@ -454,7 +454,7 @@ section { padding: 10px 20px; }
     justify-content: center;
     gap: 20px;
     flex-wrap: wrap;
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .person-card {
@@ -528,7 +528,7 @@ section { padding: 10px 20px; }
 /* STORY */
 .story-card {
     max-width: 500px;
-    margin: 0 auto 20px;
+    margin: 0 auto 10px;
     padding: 45px 40px;
     border-radius: 4px;
     background: linear-gradient(160deg,
@@ -567,7 +567,7 @@ section { padding: 10px 20px; }
 
 /* ===== EVENTS ===== */
 #events {
-    padding: 100px 20px;
+    padding: 50px 20px;
     text-align: center;
     position: relative;
 }
